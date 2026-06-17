@@ -6,3 +6,4 @@ this project was inspired by the desire to follow up on worldcup 2026 matches ov
 used it for a while and it is very reliable and discrete.
 find the images documenting the whole process in the file above.
 
+![image alt](https://github.com/wanjohifrank/night-lamp-radio-Bluetooth-project/blob/12325e6cc3eef6506773e6ce102ae9f215bb3b1b/IMG20260607123215.jpg)
